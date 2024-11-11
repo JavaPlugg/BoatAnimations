@@ -1,0 +1,6 @@
+name: boat-animations
+main: net.javaplugg.youtube.minecraft.boat_animations.BoatAnimationsPlugin
+version: 1.0
+api-version: 1.20
+commands:
+  animation:
